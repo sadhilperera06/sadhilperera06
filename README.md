@@ -21,7 +21,7 @@
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-0A0A0A?style=flat-square&logo=azure-devops&logoColor=white" />
-  <img alt="Cybersecurity" src="https://img.shields.io/badge/-Cybersecurity-0A0A0A?style=flat-square&logo=datadog&logoColor=white" />
+  <img alt="Cybersecurity" src="https://img.shields.io/badge/-Cybersecurity-0f0f0f?style=flat-square&logo=hackthebox&logoColor=green" />
   <img alt="Automation" src="https://img.shields.io/badge/-Automation-0A0A0A?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
