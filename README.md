@@ -58,8 +58,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
-###
 
-<h6 align="left">"If it looks stupid but works, it's not stupid." -- someguy</h6>
+<h5 align="left">"If it looks stupid but works, it's not stupid." -- someguy</h5>
 
 ###
