@@ -61,10 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sadhilperera06/sadhilperera06/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h6 align="left">"If it looks stupid but works, it's not stupid." -- someguy</h6>
 
 ###
