@@ -1,14 +1,5 @@
 <h2 align="left">Hi there, I'm Remy! 👋</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sadhilperera06&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?
-</div>
-<div></div>
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
